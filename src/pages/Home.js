@@ -12,13 +12,13 @@ const images = [
     link:'/bed'
   },
   {
-    url: 'https://res.cloudinary.com/dehmdybij/image/upload/v1640147132/door/49_etspvl.jpg',
+    url: 'https://res.cloudinary.com/dehmdybij/image/upload/v1641136862/door/aae_EMD/EMD_66_l48yql.jpg',
     title: 'Doors',
     width: '100%',
     link:'/door'
   },
   {
-    url: 'https://res.cloudinary.com/dehmdybij/image/upload/v1640826705/border/2020/001i_tennqo.bmp',
+    url: 'https://res.cloudinary.com/dehmdybij/image/upload/v1641140042/border/aaa_new%20border/Border_2_gi6dsm.jpg',
     title: 'borders',
     width: '100%',
     link:'/border'
