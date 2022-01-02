@@ -132,8 +132,11 @@ const BedPage = (props) => {
             {images.map(image=>
             <Grid item  key={image.public_id}>
                 <Item>
-                <img src={image.url} alt="bed" width={imgWdith} height={imgHeight} />
+                <img src={image.url} alt="bed" width={imgWdith} height={imgHeight} /><br/>
+
+                <b>Id : {image.public_id.substr(image.public_id.lastIndexOf("/")+1)}</b>
                 </Item>
+                
             </Grid>
             )}
             </Grid>

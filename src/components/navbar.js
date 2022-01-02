@@ -200,15 +200,19 @@ function ResponsiveDrawer(props) {
           
             <br/>
 
-            <Box sx={{minHeight:"10vh",width:"95vw",margin:"0"}}className="footer" style={{fontWeight:"800",backgroundColor:"#e99c84",width:"100%",textAlign:"center"}}>
+            <Box sx={{minHeight:"10vh",width:"95vw",margin:"0"}}className="footer" style={{fontWeight:"800",backgroundColor:"#e99c84",width:"100%",paddingLeft:"10vh"}}>
                 
                 <br/>
-                Developed by Yogeshwaran <br/>
-                Contact us at  <br/>
-                <a href="https://www.instagram.com/noobmaster__27/"><InstagramIcon sx={{color:"#000"}} />   </a>
-                <a href="https://www.facebook.com/yogeshwaran.pandian.96"><FacebookIcon sx={{color:"#000"}}/></a><br/>
+                
                 Feel free to call us at<br/>
-                +918122601901 , +919655213757
+                +918122601901 , +919655213757<br/><br/>
+                Contact us at  <br/>
+                15-oldbyepass road, near sakthi oil store,<br/> vellore-04, Tamilnadu <br/><br/>
+                Developed by Yogeshwaran <br/>
+                <a href="https://www.instagram.com/noobmaster__27/"><InstagramIcon sx={{color:"#000"}} />   </a>
+                <a href="https://www.facebook.com/yogeshwaran.pandian.96"><FacebookIcon sx={{color:"#000"}}/></a><br/><br/>
+               
+                
             </Box> 
                  
       </Box>
