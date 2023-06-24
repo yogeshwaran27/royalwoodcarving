@@ -1,4 +1,4 @@
-const API_URL=process.env.REACT_APP_API_URL;
+const API_URL="https://thriving-marigold-409c02.netlify.app/.netlify/functions/api";
 
 export const getImages=async (location,next_cursor)=>{
     try{
